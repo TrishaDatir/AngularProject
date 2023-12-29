@@ -1,0 +1,211 @@
+{
+  "admin": [
+    {
+      "adminName": "kaira",
+      "email": "kaira@gmail.com",
+      "panNumber": "7ccdc4",
+      "mobileNumber": "789456123",
+      "gender": "Male",
+      "password": "Neev",
+      "id": 1,
+      "confirmpassword": "Neev"
+    }
+  ],
+  "owner": [
+    {
+      "ownerName": "Vaibhav",
+      "email": "vaibhav@gmail.com",
+      "panNumber": "4256138",
+      "mobileNumber": "4563218965",
+      "gender": "Male",
+      "password": "vaibhav@1234",
+      "id": 1
+    },
+    {
+      "ownerName": "Nilam",
+      "email": "nilam@1gmail.com",
+      "panNumber": "75ssKhcs654",
+      "mobileNumber": "4561239875",
+      "gender": "Female",
+      "password": "nilam@1234",
+      "id": 2
+    },
+    {
+      "ownerName": "Neev",
+      "email": "neev@gmail.com",
+      "panNumber": "DGT25ssdF",
+      "mobileNumber": "759845632",
+      "gender": "Male",
+      "password": "neev@more",
+      "id": 3,
+      "confirmPassword": "neev@more"
+    }
+  ],
+  "user": [
+    {
+      "userName": "Nayana",
+      "email": "nayana@gmail.com",
+      "panNumber": "SASDR4526h",
+      "mobileNumber": "78954215",
+      "gender": "Female",
+      "password": "Nayana@1234",
+      "id": 1
+    },
+    {
+      "userName": "Kartik",
+      "email": "kartik@gmail.com",
+      "panNumber": "45872bxshx",
+      "mobileNumber": "7894561230",
+      "gender": "Male",
+      "password": "kartik@more",
+      "id": 2,
+      "confirmPassword": "kartik@more"
+    }
+  ],
+  "hotelDetails": [
+    {
+      "ownerName": "Nilam",
+      "mobileNumber": "75984562",
+      "hotelName": "Hotel Mast",
+      "hotelAdress": "Shivajinagar",
+      "hotelNumber": "756945923",
+      "hotelMenu": "Chainees",
+      "rooms": "5",
+      "pass": "mast@1234",
+      "checkBox": true,
+      "id": 2
+    },
+    {
+      "ownerName": "Nilam",
+      "mobileNumber": "75984562",
+      "hotelName": "Hotel shivai",
+      "hotelAdress": "kolhapur",
+      "hotelNumber": "756945923",
+      "hotelMenu": "Veg Kohlapuri",
+      "rooms": "5",
+      "pass": "shivai@1234",
+      "checkBox": true,
+      "id": 3
+    },
+    {
+      "ownerName": "Vaibhav",
+      "mobileNumber": "7539512648",
+      "hotelName": "Hotel Tadka",
+      "hotelAdress": "Satara",
+      "hotelNumber": "7589641324",
+      "hotelMenu": "Tadka",
+      "rooms": "9",
+      "pass": "madan@1234",
+      "checkBox": true,
+      "id": 4
+    },
+    {
+      "ownerName": "Vaibhav",
+      "mobileNumber": "7539512648",
+      "hotelName": "Hotel Yest",
+      "hotelAdress": "Mumbai",
+      "hotelNumber": "7589641324",
+      "hotelMenu": "brekars",
+      "rooms": "9",
+      "pass": "Yest@1234",
+      "checkBox": true,
+      "id": 5
+    },
+    {
+      "ownerName": "Vaibhav",
+      "mobileNumber": "7539512648",
+      "hotelName": "Hotel Madan",
+      "hotelAdress": "Satara",
+      "hotelNumber": "7589641324",
+      "hotelMenu": "Only Non Vege",
+      "rooms": "9",
+      "pass": "madan@1234",
+      "checkBox": true,
+      "id": 6
+    },
+    {
+      "ownerName": "Neev",
+      "mobileNumber": "7545565",
+      "hotelName": "Hotel Shamali",
+      "hotelAdress": "Pune",
+      "hotelNumber": "521320",
+      "hotelMenu": "Masharoom",
+      "rooms": "4",
+      "pass": "shamali@123",
+      "checkBox": true,
+      "id": 7
+    },
+    {
+      "ownerName": "Neev More",
+      "mobileNumber": "7894569854",
+      "hotelName": "Hotel Shivali",
+      "hotelAdress": "Banglor",
+      "hotelNumber": "456654456",
+      "hotelMenu": "All Maharastrian ",
+      "rooms": "10",
+      "pass": "shivali@1234",
+      "checkBox": true,
+      "id": 8
+    },
+    {
+      "ownerName": "Neev",
+      "mobileNumber": "1599632147",
+      "hotelName": "Hotel Nayntara",
+      "hotelAdress": "Kalkata",
+      "hotelNumber": "444442258",
+      "hotelMenu": "Maharastrian Dishes",
+      "rooms": "10",
+      "pass": "nayntara@1234",
+      "checkBox": true,
+      "id": 9
+    },
+    {
+      "ownerName": "Neev",
+      "mobileNumber": "11111",
+      "hotelName": "Hotel Taj",
+      "hotelAdress": "Mumbai",
+      "hotelNumber": "222222",
+      "hotelMenu": "South indian Food",
+      "rooms": "9",
+      "pass": "taj@1231",
+      "checkBox": true,
+      "id": 10
+    },
+    {
+      "ownerName": "",
+      "mobileNumber": "",
+      "hotelName": "",
+      "hotelAdress": "",
+      "hotelNumber": "",
+      "hotelMenu": "",
+      "rooms": "",
+      "pass": "",
+      "checkBox": "",
+      "id": 12
+    },
+    {
+      "ownerName": "Vaibhav More",
+      "mobileNumber": "44514454",
+      "hotelName": "Hotel Shivtara",
+      "hotelAdress": "shivtara@gmail.com",
+      "hotelNumber": "32323",
+      "hotelMenu": "Vej",
+      "rooms": "7",
+      "pass": "vdvd",
+      "checkBox": true,
+      "id": 13
+    }
+  ],
+  "HotelBooking": [
+    {
+      "userName": "nyana",
+      "mobileNumber": "7529426",
+      "address": "pune",
+      "panNumber": "TTTTT7856T",
+      "checkIn": "2023-12-20",
+      "checkOut": "2023-12-25",
+      "bookAmout": "1000",
+      "id": 1
+    }
+  ]
+}
