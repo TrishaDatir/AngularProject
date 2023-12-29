@@ -1,0 +1,177 @@
+.mainContainer {
+    background-image: url('~src/assets/image/bgImage.avif');
+    // height: 1000px;
+    width: 1350px;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: first baseline;
+    height: 100vh;
+    /* Adjust the height if needed */
+}
+
+.center-input {
+    
+   
+    width: 306px;
+    min-height: 37px;
+    margin: 20px;
+    position: relative;
+    top: 14px;
+    padding: 5px 5px;
+    float: left;
+    left: 26px;
+    border-radius: 5px;
+    color: #3F51B5;
+}
+
+
+
+.container {
+
+    position: relative;
+    height: 112px;
+    width: 112px;
+
+}
+
+.citySet {
+    color: red;
+
+    position: absolute;
+    padding: 5px 5px;
+    float: right;
+    right: 300px;
+    top: 30px;
+}
+
+.citySetName {
+    position:relative;
+    padding: 5px 5px;
+    float: right;
+    right: 300px;
+    top: 70px;
+}
+.citylogo {
+
+    position: absolute;
+    top: 15px;
+    float: right;
+    right: 76px;
+
+}
+.btn {
+   
+   
+    background-color: #0cc1ee;
+    color: rgb(8, 8, 8);
+    margin: 20px;
+    position: relative;
+    top: 10px;
+    width: 92px;
+    height: 36px;
+    padding: 5px 5px;
+    border-radius: 20px;
+    font-size: medium;
+    font-family: emoji;
+    font-style: italic;
+}
+
+btn:hover {
+    color: red;
+}
+
+.tempName{
+   
+    position: relative;
+    padding: 5px 5px;
+    float: right;
+    right: 5px;
+    top: 27px;
+
+}
+
+.tempreLogo {
+  
+    top: -177px;
+    float: right;
+    right: 700px;
+}
+
+.containerTemp {
+    height: 182px;
+    width: 135px;
+    float: right;
+    right: 650px;
+    position: relative;
+}
+
+.containerTemp span{
+        color: #E91E63;
+        top: 20;
+        position: relative;
+      
+        width: 20px;
+        top: 20px;
+        font-size: medium;
+    }
+
+    .setAllSpan{
+       
+    height: 20px;
+    width: 12px;
+    top: 53px;
+    position: relative;
+    float: right;
+    right: 280px;
+    }
+
+    .presName{
+        
+    position: relative;
+    padding: 5px 5px;
+    float: right;
+    right: 25px;
+    top: -24px;
+
+    }
+
+    .humidity{
+    
+        position: relative;
+        padding: 5px 5px;
+        float: right;
+        right: 280px;
+        top: -153px;
+    
+    }
+
+    .windSpeed{
+        position: relative;
+     padding: 5px 5px;
+    //     float: right;
+    left: 160px;
+    // right: 94px;
+    top: -204px
+ }
+
+ .contry{
+    position: relative;
+    padding: 5px 5px;
+   //     float: right;
+   left:300px;
+   // right: 94px;
+   top: -204px
+ }
+
+ .error-message {
+    color: red;
+    font-size: 14px;
+    /* margin-top: 7px; */
+    position: relative;
+    top: 80px;
+    right: 263px;
+    font-size: larger;
+  }
